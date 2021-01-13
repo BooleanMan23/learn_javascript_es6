@@ -1,0 +1,19 @@
+Pengertian Higher Order Function
+: Funcntion yang beroperasi pada  function lain.
+  Baik itu digunakan dalam argument,
+  maupun sebagai return value
+
+contoh
+
+function doingTask(task, done){
+    console.log(`Now doing ${task}...`);
+    done();
+}
+
+
+function done(){
+    console.log('done doing task');
+} 
+
+doingTask = Higher Order function
+done = Callback function
