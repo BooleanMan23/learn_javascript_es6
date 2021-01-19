@@ -1,0 +1,19 @@
+body{
+    background-color: salmon;
+    text-align: center;
+}
+
+.name{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+
+}
+
+.name span{
+    display: inline-block;
+    transition: 0.3s;
+}
+
+.name span:hover{
+    transform: scale(2);
+}
