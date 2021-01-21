@@ -1,0 +1,27 @@
+[
+    {
+        "name" : "Aditya Negara",
+        "age" : 22,
+        "nim" : "165150200111021",
+        "program" : "information technology",
+        "teacherAfilliateId" : 1 
+    },
+    {
+        "name" : "Dedy Rakayudi Prasetya ",
+        "age" : 22,
+        "nim" : "165150200111023",
+        "program" : "information technology",
+        "teacherAfilliateId" : 2 
+    },
+    {
+        "name" : "Harun Arrasyid Hasibuan ",
+        "age" : 21,
+        "nim" : "165150200111024",
+        "program" : "information technology",
+        "teacherAfilliateId" : 2
+    }
+    
+    
+    
+
+]
