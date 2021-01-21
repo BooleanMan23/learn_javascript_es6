@@ -1,0 +1,12 @@
+Javascript : 
+Is a single threeaded, non blocking, asynchronous, and
+concurrent language
+
+thread : urutan eksekusi kode yang dapat dilakukan secara 
+bebas/independent satu sama lain
+
+blocking : bila task 1 sudah selesai baru mengerjakan task 2
+non blocking : bila task 1 belom selesai dapat mengerjakan task 2
+
+Asynchronous Single thread: mengerjakan task 1 walaupun task 1 
+ belum selesai tapi dapat juga pindah thread
